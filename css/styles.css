@@ -51,7 +51,7 @@ ul {
 
 /*хедер секция*/
 .header-sheets {
-  outline: tomato;
+
   background-color:var(--white-color);
 }
 .logo {
